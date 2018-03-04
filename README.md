@@ -14,3 +14,6 @@ Golang 공부
 10. chap10: 클로저
 11. chap11: Go 컬렉션1(배열)
 12. chap12: Go 컬렉션2(Slice)
+13. chap13: 지연호출
+14. chap14: 패닉(panic) 과 복구(recover)
+15. chap15: 포인터
