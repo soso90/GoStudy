@@ -17,3 +17,5 @@ Golang 공부
 13. chap13: 지연호출
 14. chap14: 패닉(panic) 과 복구(recover)
 15. chap15: 포인터
+16. chap16: Go 컬렉션2(맵)
+17. chap17: 구조체1
